@@ -14,7 +14,7 @@ main {
     padding:10px;
 }
 header, footer {
-    background:#ccff99;
+    background:#99ff33;
     padding:10px;
     text-align:center;
 }
@@ -46,5 +46,5 @@ label {
     text-align:center;
     font-weight:bold;
     font-size:40px;
-        padding:0 1px 0 13px;
+    padding:0 1px 0 13px;
 }
